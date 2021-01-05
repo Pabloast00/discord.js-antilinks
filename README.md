@@ -1,5 +1,5 @@
 ```js
-const AntiLinks = require("capo-anti-links"),
+const AntiLinks = require("discord.js-antilinks"),
   checkDomains = new AntiLinks("domains"),
   checkYouTube = new AntiLinks("youtube");
 const Discord = require("discord.js");
