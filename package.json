@@ -1,0 +1,39 @@
+{
+  "name": "discord.js-antilinks",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pabloast00/discord.js-antilinks.git"
+  },
+  "keywords": [
+    "curse",
+    "profanity",
+	"discord",
+	"anti-links",
+    "relaxed",
+    "links",
+    "bad",
+    "dirty",
+    "obscene",
+    "filter",
+    "clean",
+    "word",
+    "words",
+    "string",
+    "list",
+    "parolacce",
+    "italian",
+    "italiane",
+    "blacklist",
+    "black",
+    "leet",
+    "translator"
+  ],
+  "author": "Capo",
+  "license": "MIT"
+}
