@@ -1,3 +1,4 @@
+```js
 const AntiLinks = require("capo-anti-links"),
   checkDomains = new AntiLinks("domains"),
   checkYouTube = new AntiLinks("youtube");
@@ -15,3 +16,4 @@ client.on("message", async message => {
 });
 
 client.login("token");
+```
